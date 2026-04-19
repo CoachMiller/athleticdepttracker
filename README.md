@@ -1,2 +1,2 @@
 # athleticdepttracker
-Tracking tools to high school ADs
+Tracking tools designed for high school athletic directors.
